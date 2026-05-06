@@ -12,6 +12,10 @@ _Developed by Sachin Savkare | Powered by Power BI & SQL | Facilitated by Codeba
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/SachinSavkare/Power-BI-Shield-Insurance-AtliQ-Technoligies-Internship-/main/Thumbnail.png)](https://www.youtube.com/watch?v=6H1_iEKWr6k)
+
+---
+
 ## 🏠 Home Page
 
 ![Alt text](https://github.com/SachinSavkare/Power-BI-Shield-Insurance-AtliQ-Technoligies-Internship-/blob/main/Home%20Page%20View.JPG)
